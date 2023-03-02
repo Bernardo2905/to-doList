@@ -1,0 +1,12 @@
+.pageMain{
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
+
+.containerMain{
+  max-width: 570px;
+
+
+ 
+}

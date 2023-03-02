@@ -1,0 +1,35 @@
+.boxTask{
+  max-width: 570px;
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  padding: 16px;
+  font-size: 14px;
+  border-radius: 8px;
+
+  background-color: var(--gray-500)
+}
+
+.deleteTask{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.deleteTask:hover{
+  background-color: var(--danger);
+}
+
+.task{
+  color: white;
+  padding: 12px;
+  font-style: regular;
+}
+
+.buttonComplete{
+  cursor: pointer;
+}
+
+

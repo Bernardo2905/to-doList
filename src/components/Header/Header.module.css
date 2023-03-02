@@ -1,0 +1,16 @@
+.header{
+  whidth: full;
+  height: 150px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: var(--gray-700);
+  color: var(--purple); ;
+}
+
+.titleSpan{
+  color: var(--blue);
+}
+
